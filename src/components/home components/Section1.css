@@ -1,0 +1,32 @@
+.section1{
+    background-color: #F2EAE6;
+    padding: 4rem;
+
+}
+.top{
+    display:flex;
+    /* border: 1px solid; */
+    margin-top:8rem;
+    margin-bottom:4rem;
+
+}
+
+.range{
+    margin-right: 1rem;
+    border: 1px solid #F2EAE6 ;
+
+}
+
+.range p{
+    text-align: justify;
+    margin-bottom: 5rem;
+}
+.range img{
+    margin-right:1rem;
+}
+
+.upper{
+    border-left: 2px solid #4B3915;
+    margin-bottom:2rem;
+    padding-left: 0.5rem;
+}

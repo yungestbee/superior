@@ -1,0 +1,15 @@
+.dark-btn{
+    background-color: #5e430e;
+    border:none;
+    color: #fff;
+    border-radius: 5px;
+    padding: 0.5rem;
+    margin-right: 1rem;
+}
+
+.light-btn{
+    background-color: #d9d9d955;
+    border:none;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
